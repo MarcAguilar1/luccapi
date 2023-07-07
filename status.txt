@@ -1,1 +1,1 @@
-STATUS = 'Offline'
+STATUS = Offline
